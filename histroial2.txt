@@ -1,0 +1,37 @@
+    2  git config --global user.email "ulises_9084@hotmail.com"
+    3  git config --global user.name "Ulises Emmanuel Orihuela Segura"
+   15  git pull
+   25  git pull
+   29  git add .
+   30  git status
+   32  git add .
+   33  git status
+   34  git add .
+   35  git status
+   36  git commit
+   37  git commit -m "se agrego el documento sony.html, se agregaron las imagenes ps1, ps2, ps3, ps4 y pslogo y se hizo el hiperviculo del index a la vista de sony"
+   38  git status
+   39  git push
+   41  git add .
+   42  git status
+   43  git commit -m "se termino el archivo sony.html"
+   44  git status
+   45  git log
+   46  git status
+   47  git pull
+   48  git push
+   49  git log
+   50  git log
+   54  git log
+   57  git log
+   58  git pull
+   59  git log
+   60  git log
+   61  git pull
+   63  history │ grep git > histroial.txt
+   64  history │ grep git
+   65* history │ grep git 
+   66  history │ grep git >> histroial.txt
+   67  history │ grep git >> histroial2.txt
+   68  history │2 grep git >> histroial2.txt
+   69  history | grep git >> histroial2.txt
