@@ -1,0 +1,222 @@
+    1  cd proyectogit
+    2  git status
+    4  git log
+    5  git log --oneline
+    6  git history
+    8  git init
+   11  git statu
+   12  git status
+   13  git add .
+   14  git status
+   15  git commint -m "commint realizado"
+   16  git status
+   17  git commit
+   18  git status
+   19  git config --list
+   20  git log
+   21  git log
+   22  git log --oneline
+   23  git log show<ec6b63e>
+   27  git cat hola.txt
+   28  git cat hola
+   30  git clean
+   31  git clean
+   32  git status
+   33  git log 
+   34  git log --oneline
+   35  git log show <ec6b63e>
+   36  git log newline <ec6b63e>
+   37  git log newline<ec6b63e>
+   38  git show ec6b63e
+   39  git add .
+   40  git status
+   41  git status
+   42  git diff
+   43  git diff --staged
+   44  git add .
+   45  git status
+   47  git status
+   48  git rm index
+   49  git rm index.html
+   50  git rm index.html
+   51  cd integradoragit
+   53  mekdir git
+   54  mkdir git
+   55  cd git
+   56  git init
+   57  git branch
+   59  git estatus
+   60  git branch rama1
+   61  git branch
+   62  git checkout
+   63  git checkout rama1
+   68  git add .
+   69  git  estatus
+   70  git log
+   71  git clone http://github.com/ffranjavierutez/gitdesdeapps3.git
+   74  cd gitdesdeapps3
+   75  git pull
+   80  git add .
+   81  git commit
+   82  git push
+   83  git push
+   84  git push
+   85  git config --global push.default matching
+   86  git push
+   87  git pull
+   88  git pull
+   89  git pull
+   90  git pull
+   91  git push
+   92  git pull
+   93  git pull
+   94  git push
+   95  git pull
+   96  git pull
+   97  git pull
+  104  git branche yovaniJimenez
+  105  git branch yovaniJimenez
+  107  git checkout
+  108  git checkout yovaniJimenez
+  113  git add .
+  114  git estatus
+  115  git status
+  116  git commit -m 
+  117  git commit 
+  123  cd gitdesdeapps3
+  125  git checkout master
+  126  git merge
+  127  git merge yovaniJimenez
+  128  git push
+  129  git push
+  130  git push
+  131  git push
+  133  git push
+  134  git pull
+  135  git push
+  136  git push
+  145  git clone https://github.com/ulises9084/Equipo-Amarrillo.
+  146  git clone https://github.com/ulises9084/Equipo-Amarillo.git
+  150  git clone https://github.com/ulises9084/Equipo-Amarillo.git
+  151  git pull
+  152  git clone https://github.com/ulises9084/Equipo-Amarillo.git
+  153  git pull
+  155  git pull
+  156  git clone https://github.com/ulises9084/Equipo-Amarillo.git
+  159  git pull
+  160  git add .
+  161  git status
+  162  git commit
+  164  git delete xbox.html
+  169  git add ..
+  170  git status
+  171  git commit -m "crear vista xbox"
+  172  git status
+  173  git push
+  174  git list
+  175  git pull
+  176  git push
+  177  git pull
+  178  git add .
+  179  git status
+  180  git commit
+  181  git push
+  183  git add .
+  184  git status
+  185  git commit
+  186  git status
+  187  git push
+  189  git pull
+  190  git barnch agregar-video
+  191  git branch agregar-video
+  192  git checkout agregar-video
+  199  git add .
+  200  git status
+  201  git commit
+  202  git pull
+  203  git push
+  204  git pull
+  206  git merge
+  207  git merge agregar-video
+  208  git push
+  209  git pull
+  210  git checkout
+  211  git checkout agregar-video
+  212  git push
+  215  git checkout master
+  216  git checkout
+  217  git checkout agregar-video
+  218  git branch agregar-video -f
+  219  git checkout master
+  220  git branch agregar-video -f
+  221  git branch -f agregar-video
+  222  git branch -f agregar-video rev
+  223  git checkout agregar-video
+  225  git pull
+  226  git push
+  227  git push
+  228  git merge agregar-video
+  229  git merge master
+  230  git push
+  231  git checkout master
+  232  git merge agregar-video
+  233  git push
+  234  git pull
+  235  git push
+  236  git push
+  237  git pull
+  239  git checkout agregar-video
+  240  git add .
+  241  git status
+  242  git commit
+  243  git add .
+  244  git status
+  245  git commit 
+  246  git push
+  247  git merge agregar-video
+  248  git push
+  250  git checkout master
+  251  git pull
+  253  git checkout
+  254  git branch
+  255  git checkout agregar-video
+  256  git pull
+  257  git checkout master
+  258  git pull
+  259  git checkout agregar-video
+  262  git pull
+  263  git pull
+  264  git pull
+  265  git pull
+  266  git pull
+  269  git pull
+  270  git pull
+  271  git confirm
+  272  git pull
+  273  git aborting
+  275  git add 
+  276  git add .
+  279  git push
+  280  git pull
+  281  git push
+  282  git commit
+  283  git pull
+  284  git pull
+  285  git checkout agregar-video
+  286  git pull
+  287  git checkout master
+  288  git pull
+  289  git checkout agregar-video
+  290  git add .
+  291  git status
+  292  git commit
+  293  git checkout master
+  294  git merge agregar-video
+  295  git push
+  296  git pull
+  297  git add .
+  298  git status
+  299  git commit
+  300  git push
+  301  git history >> history.txt
+  304  history | grep git >> historial3.txt
