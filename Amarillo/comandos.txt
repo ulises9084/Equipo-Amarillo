@@ -1,0 +1,29 @@
+    
+Comandos de GIT:     
+
+      git config --global user.email "rub.gaar@gmail.com"
+      git config --global user.name "Rubén García Arce"
+      git config --global user.email "ulises_9084@hotmail.com"
+ 
+      git config --global user.name "Ulises Emmanuel Orihuela Segura"
+
+      git clone https://github.com/ulises9084/Equipo-Amarillo.git
+      git add index.html
+      git status
+      git commit -m index.html
+      git commit -m "correccion del commit inicial"
+      git log
+      git config --global push.default matching
+      git push
+      git pull
+      git rm histroial.txt
+      git log --oneline
+      git init
+      git config --list
+      git diff
+      git diff --staged
+      git branch
+      git branch yovaniJimenez
+      git checkout yovaniJimenez
+      git checkout master
+      git merge yovaniJimenez
